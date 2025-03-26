@@ -1,9 +1,7 @@
 <h1>Model 3D Budynku dla gry KARNAGE</h1>
 
 <h2>Info</h2>
-Model zost
-<br />
-
+Model został stworzony dla gry KARNAGE, to gra 3D retro style fps bardzo podobna do starszych popularnych gier jak DOOM i Quake, model został zaprojektowany przez różne rysunki i konsultacji z klientem, zaprojektowałem 3 rysunki i następnie wysłałem je do klienta, klient poinformował mnie że drugi projekt modelu najbardziej pasuje do gry KARNAGE. By stworzyć ten model użyłem programu Tinkercad, program pozwolił mi na wybieranie różnych kształtów i ich modelowania poprzez stworzyłem ściany budynku, następnie narzędziem z programu wyciąłem dziury w tych ścianach po to żeby model wyglądał na zniszczony i też opuszczony co pomogło dopasować model pod gre. Dla modelu wybrałem kolory srebrne i niebieske by otrzymać futurystyczny wygląd dla gry KARNAGE, po zakonczeniu model prawdopodbnie został dodany do gry. 
 
 <h2>Pokaz modelu i planowania:</h2>
 
