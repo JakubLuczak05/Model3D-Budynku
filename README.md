@@ -1,7 +1,7 @@
 <h1>Model 3D Budynku dla gry KARNAGE</h1>
 
 <h2>Info</h2>
-Strona
+Model zost
 <br />
 
 
